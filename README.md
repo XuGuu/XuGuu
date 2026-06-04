@@ -7,10 +7,10 @@
 
 | 项目 | 一句话简介 | 技术 |
 |------|------------|------|
-| [🪟 personal-dashboard](https://github.com/XuGuu/personal-dashboard) | 个人主页仪表盘：时钟 / 天气 / 待办 / 快捷链接 | HTML · JS |
-| [🌱 habit-tracker](https://github.com/XuGuu/habit-tracker) | 习惯打卡，带 GitHub 风格绿色热力图 | HTML · JS |
-| [🗂 file-organizer](https://github.com/XuGuu/file-organizer) | 一行命令把乱糟糟的文件夹按类型整理好 | Python |
-| [💸 expense-splitter](https://github.com/XuGuu/expense-splitter) | 多人 AA 分摊，自动算出谁该还谁多少 | HTML · JS |
+| [🪟 personal-dashboard](https://github.com/XuGuu/personal-dashboard) | 个人主页仪表盘：时钟 / 天气 / 待办（可编辑、清空已完成） / 快捷链接 | HTML · JS |
+| [🌱 habit-tracker](https://github.com/XuGuu/habit-tracker) | 习惯打卡，热力图 + 当前/历史最长连续天数，支持导出备份 | HTML · JS |
+| [🗂 file-organizer](https://github.com/XuGuu/file-organizer) | 命令行整理文件，支持预演 / 撤销 / 保留模式 | Python |
+| [💸 expense-splitter](https://github.com/XuGuu/expense-splitter) | 多人 AA 分摊，自动算最优还款方案，一键生成群发文本 | HTML · JS |
 
 ### 🌱 正在学
 
