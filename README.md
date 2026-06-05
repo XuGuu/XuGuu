@@ -18,6 +18,12 @@
 - Python 命令行小工具
 - Git 与开源协作
 
+### 💡 我的工作方式
+
+- **小而完整 > 又大又空**：先发布能跑的 1.0，再持续迭代
+- **每个项目都有** README、截图、CHANGELOG、MIT 许可证
+- **真实数据胜过假数据**：每次提交都对应一处真实改动
+
 ### 📊 GitHub 数据
 
 ![XuGuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuGuu&show_icons=true&hide_border=true)
